@@ -1,4 +1,4 @@
-# Projeto: Fundamentos da Programação - IST
+# Projeto 1: Fundamentos da Programação - IST
 
 ## Descrição
 
